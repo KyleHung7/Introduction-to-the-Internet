@@ -3,6 +3,8 @@
 ## 1.作業1：個人網站
 https://kylehung.vercel.app/
 
-## 2.作業2：簽到系統
+## 2.作業2：簽到系統程式碼
 https://github.com/KyleHung7/sign-in-system
+
+## 3.作業2：簽到系統解說影片
 https://youtu.be/5GGz8jUZU98
