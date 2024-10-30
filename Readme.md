@@ -13,4 +13,10 @@ https://sign-in-system-project.vercel.app/
 https://youtu.be/5GGz8jUZU98
 
 ## 5.作業3：音樂選擇器程式碼
+https://github.com/KyleHung7/music-selection
+
+## 6.作業3：音樂選擇器網站
+https://vercel.com/kylehung7s-projects/music-selection
+
+## 7.作業3：音樂選擇器解說影片
 
