@@ -19,4 +19,5 @@ https://github.com/KyleHung7/music-selection
 https://music-selection.vercel.app/
 
 ## 7.作業3：音樂選擇器解說影片
+https://youtu.be/37n22h_Hks4
 
