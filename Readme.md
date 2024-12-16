@@ -21,3 +21,11 @@ https://music-selection.vercel.app/
 ## 7.作業3：音樂選擇器解說影片
 https://youtu.be/37n22h_Hks4
 
+## 8.期末專題：心情音樂選擇器TuneLab程式碼
+https://github.com/KyleHung7/tunelab
+
+## 9.期末專題：心情音樂選擇器TuneLab網站
+https://tunelab.vercel.app/
+
+## 10.期末專題：心情音樂選擇器TuneLab解說影片
+https://www.youtube.com/watch?v=_P_dGulO0_c
