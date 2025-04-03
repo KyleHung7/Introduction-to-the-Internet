@@ -6,7 +6,15 @@ This course emphasizes hands-on learning by encouraging students to build projec
 ### Course Objectives  
 1. **Hands-on Learning**: Engage students in active project development to enhance their understanding.  
 2. **Skill Development**: Equip students with practical skills essential for professional and personal growth.  
-3. **Project-Based Evaluation**: Assess students through individual assignments and a group mini-hackathon project.  
+3. **Project-Based Evaluation**: Assess students through individual assignments and a group mini-hackathon project.
+
+## Overview  
+This course emphasizes **learning by doing**, encouraging students to build projects to deepen their understanding of how things work. Through a series of individual assignments and a group mini-hackathon, students develop essential technical and problem-solving skills required in the professional world.  
+
+The assignments focus on **full-stack development, system design, and project documentation**, requiring students to submit their work on **GitHub, deploy functional websites, and create video explanations** to demonstrate their implementation process.  
+
+For the **final project**, students worked in teams to develop **TuneLab**, a **mood-based music selector**, showcasing their ability to integrate multiple technologies into a cohesive product.  
+
 
 ## Assignments & Project Submissions  
  **Personal Website**   [Visit Site](https://kylehung.vercel.app/) 
