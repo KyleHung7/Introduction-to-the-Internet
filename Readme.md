@@ -10,20 +10,9 @@ This course emphasizes hands-on learning by encouraging students to build projec
 
 ## Assignments & Project Submissions  
 
-### **1. Personal Website**  
-- **Project Link**: [Personal Website](https://kylehung.vercel.app/)  
-
-### **2. Attendance System**  
-- **Code Repository**: [GitHub - Sign-in System](https://github.com/KyleHung7/sign-in-system)  
-- **Live Demo**: [Sign-in System Website](https://sign-in-system-project.vercel.app/)  
-- **Explanation Video**: [YouTube - Sign-in System](https://youtu.be/5GGz8jUZU98)  
-
-### **3. Music Selector**  
-- **Code Repository**: [GitHub - Music Selection](https://github.com/KyleHung7/music-selection)  
-- **Live Demo**: [Music Selection Website](https://music-selection.vercel.app/)  
-- **Explanation Video**: [YouTube - Music Selection](https://youtu.be/37n22h_Hks4)  
-
-### **4. Final Project: TuneLab - Mood-based Music Selector**  
-- **Code Repository**: [GitHub - TuneLab](https://github.com/KyleHung7/tunelab)  
-- **Live Demo**: [TuneLab Website](https://tunelab.vercel.app/)  
-- **Explanation Video**: [YouTube - TuneLab](https://www.youtube.com/watch?v=_P_dGulO0_c)  
+| #  | Project Name                         | Code Repository | Live Demo | Explanation Video |
+|----|-------------------------------------|----------------|-----------|-------------------|
+| 1  | **Personal Website**                | - | [Visit Site](https://kylehung.vercel.app/) | - |
+| 2  | **Attendance System**               | [GitHub](https://github.com/KyleHung7/sign-in-system) | [Visit Site](https://sign-in-system-project.vercel.app/) | [Watch Video](https://youtu.be/5GGz8jUZU98) |
+| 3  | **Music Selector**                   | [GitHub](https://github.com/KyleHung7/music-selection) | [Visit Site](https://music-selection.vercel.app/) | [Watch Video](https://youtu.be/37n22h_Hks4) |
+| 4  | **Final Project: TuneLab - Mood-based Music Selector** | [GitHub](https://github.com/KyleHung7/tunelab) | [Visit Site](https://tunelab.vercel.app/) | [Watch Video](https://www.youtube.com/watch?v=_P_dGulO0_c) |
