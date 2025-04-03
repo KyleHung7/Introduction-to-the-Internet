@@ -1,31 +1,29 @@
-# 作業繳交
+# Introduction-to-the-Internet
 
-## 1.作業1：個人網站
-https://kylehung.vercel.app/
+## Course Information  
+This course emphasizes hands-on learning by encouraging students to build projects to understand how things work. It aims to develop essential survival skills for entering the workforce through individual assignments and group projects.
 
-## 2.作業2：簽到系統程式碼
-https://github.com/KyleHung7/sign-in-system
+### Course Objectives  
+1. **Hands-on Learning**: Engage students in active project development to enhance their understanding.  
+2. **Skill Development**: Equip students with practical skills essential for professional and personal growth.  
+3. **Project-Based Evaluation**: Assess students through individual assignments and a group mini-hackathon project.  
 
-## 3.作業2：簽到系統網站
-https://sign-in-system-project.vercel.app/
+## Assignments & Project Submissions  
 
-## 4.作業2：簽到系統解說影片
-https://youtu.be/5GGz8jUZU98
+### **1. Personal Website**  
+- **Project Link**: [Personal Website](https://kylehung.vercel.app/)  
 
-## 5.作業3：音樂選擇器程式碼
-https://github.com/KyleHung7/music-selection
+### **2. Attendance System**  
+- **Code Repository**: [GitHub - Sign-in System](https://github.com/KyleHung7/sign-in-system)  
+- **Live Demo**: [Sign-in System Website](https://sign-in-system-project.vercel.app/)  
+- **Explanation Video**: [YouTube - Sign-in System](https://youtu.be/5GGz8jUZU98)  
 
-## 6.作業3：音樂選擇器網站
-https://music-selection.vercel.app/
+### **3. Music Selector**  
+- **Code Repository**: [GitHub - Music Selection](https://github.com/KyleHung7/music-selection)  
+- **Live Demo**: [Music Selection Website](https://music-selection.vercel.app/)  
+- **Explanation Video**: [YouTube - Music Selection](https://youtu.be/37n22h_Hks4)  
 
-## 7.作業3：音樂選擇器解說影片
-https://youtu.be/37n22h_Hks4
-
-## 8.期末專題：心情音樂選擇器TuneLab程式碼
-https://github.com/KyleHung7/tunelab
-
-## 9.期末專題：心情音樂選擇器TuneLab網站
-https://tunelab.vercel.app/
-
-## 10.期末專題：心情音樂選擇器TuneLab解說影片
-https://www.youtube.com/watch?v=_P_dGulO0_c
+### **4. Final Project: TuneLab - Mood-based Music Selector**  
+- **Code Repository**: [GitHub - TuneLab](https://github.com/KyleHung7/tunelab)  
+- **Live Demo**: [TuneLab Website](https://tunelab.vercel.app/)  
+- **Explanation Video**: [YouTube - TuneLab](https://www.youtube.com/watch?v=_P_dGulO0_c)  
