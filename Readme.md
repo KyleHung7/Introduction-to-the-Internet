@@ -9,10 +9,9 @@ This course emphasizes hands-on learning by encouraging students to build projec
 3. **Project-Based Evaluation**: Assess students through individual assignments and a group mini-hackathon project.  
 
 ## Assignments & Project Submissions  
-
+ **Personal Website**                | - | [Visit Site](https://kylehung.vercel.app/) | - |
 | #  | Project Name                         | Code Repository | Live Demo | Explanation Video |
 |----|-------------------------------------|----------------|-----------|-------------------|
-| 1  | **Personal Website**                | - | [Visit Site](https://kylehung.vercel.app/) | - |
-| 2  | **Attendance System**               | [GitHub](https://github.com/KyleHung7/sign-in-system) | [Visit Site](https://sign-in-system-project.vercel.app/) | [Watch Video](https://youtu.be/5GGz8jUZU98) |
-| 3  | **Music Selector**                   | [GitHub](https://github.com/KyleHung7/music-selection) | [Visit Site](https://music-selection.vercel.app/) | [Watch Video](https://youtu.be/37n22h_Hks4) |
-| 4  | **Final Project: TuneLab - Mood-based Music Selector** | [GitHub](https://github.com/KyleHung7/tunelab) | [Visit Site](https://tunelab.vercel.app/) | [Watch Video](https://www.youtube.com/watch?v=_P_dGulO0_c) |
+| 1  | **Attendance System**               | [GitHub](https://github.com/KyleHung7/sign-in-system) | [Visit Site](https://sign-in-system-project.vercel.app/) | [Watch Video](https://youtu.be/5GGz8jUZU98) |
+| 2  | **Music Selector**                   | [GitHub](https://github.com/KyleHung7/music-selection) | [Visit Site](https://music-selection.vercel.app/) | [Watch Video](https://youtu.be/37n22h_Hks4) |
+| 3  | **Final Project: TuneLab - Mood-based Music Selector** | [GitHub](https://github.com/KyleHung7/tunelab) | [Visit Site](https://tunelab.vercel.app/) | [Watch Video](https://www.youtube.com/watch?v=_P_dGulO0_c) |
